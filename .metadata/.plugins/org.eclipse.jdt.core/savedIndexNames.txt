@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\Terry\Documents\Udemy\Spring\STS_workspace_SpringMVC\.metadata\.plugins\org.eclipse.jdt.core
+2927782134.index
